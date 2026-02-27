@@ -31,8 +31,10 @@ Machine Learning: Scikit-Learn (TF-IDF, Cosine Similarity)
 
 ⚙️ Installation & Setup
 
-cd Movie_Recommendation-system
+git clone https://github.com/rishisharma12501-a11y/Movie_Recommendation-system
 
+cd Movie_Recommendation-system
+add movies.xlsv in same folder/directory
 📊 How it Works
 The system follows a mathematical approach to find the "closest" movie to your input:
 Preprocessing: Cleans the Genre data from the Excel sheet.
